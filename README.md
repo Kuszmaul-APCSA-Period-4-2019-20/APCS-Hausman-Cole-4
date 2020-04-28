@@ -1,2 +1,2 @@
 # APCS-Hausman-Cole-4
-10/10
+I have never and will never actually bother to use this repo
